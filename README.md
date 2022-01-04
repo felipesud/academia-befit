@@ -1,2 +1,2 @@
-# BEFIT Academia
-Website responsivo para academia fictícia chamada BeFit HTML, CSS, SASS, Bootstrap e JavaScript
+# Fusion Fitness Academia
+Website responsivo para academia fictícia chamada Fusion Fitness HTML, CSS, SASS, Bootstrap e JavaScript
